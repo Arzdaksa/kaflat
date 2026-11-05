@@ -1,0 +1,32 @@
+{
+  "countries": [
+    {
+      "continent": "Asia",
+      "name": "Israel",
+      "pupulation": {
+        "year": 2001,
+        "total": 6965932
+      },
+      "cities": [{
+        "name": "Jerusalem",
+        "isCapital": true
+      }, {
+        "name": "Ashdod"
+      }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "name": "France",
+      "pupulation": {
+        "year": 2006,
+        "total": 60424213
+      },
+      "cities": [{
+        "name": "Paris",
+        "isCapital": true
+      }
+      ]
+    }
+  ]
+}
